@@ -1,14 +1,14 @@
-### Hi there 🫶❤️
+# Hi there 🫶❤️
+
 ## 🖥️👽 About me
 - 🌍   Currently on Argentina
 - 👨🏻‍💻   I love technology
 - 🚀   Frontend developer
 - 🎓   Currently Learning Full Stack on NUCBA.
 
-
 ## 🌐🤝🏻 Social
+- Take a look to my [Portfolio](https://www.victoriodev.ar/) ✨
 - Check my [LinkedIn](https://www.linkedin.com/in/victoriocaccioppoli/) and connect with me 🛠️
 - You cand send me an [Email](victoriocaccioppoli@gmail.com) 📧
-- Discord: vicctorio 🎙️
-
-![giphy (1)](https://github.com/Victorioo/tukens/assets/114512180/ae7c5282-713b-44c6-8a86-71f0b1974ebd)
+ 
+![coding](https://media.giphy.com/media/ly8G39g1ujpNm/giphy.gif)
