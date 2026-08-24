@@ -1,12 +1,28 @@
-# Hi there 🫶❤️
+# Victorio Caccioppoli
 
-##  Frontend Developer at Argus PPC
-- 🌍   I live in Córdoba, Argentina
-- 👨🏻‍💻   I love technology
-- 🚀   Frontend developer at Argus PPC
+Frontend Developer @ Argus, building interfaces and learning the fundamentals underneath them.
 
-## 🌐🤝🏻 Social
-- Check my [LinkedIn](https://www.linkedin.com/in/victoriocaccioppoli/) and connect with me 🛠️
-- You cand send me an [Email](victoriocaccioppoli@gmail.com) 📧
- 
+---
+
+## What I work on
+
+- Frontend development at Argus — client sites and web applications
+- Studying Software Development (TUP) at UTN FRC
+
+---
+
+## Stack
+
+- JavaScript, React, Next.js, Tailwind
+- C#, .NET, SQL
+- WordPress & Shopify (agency client work)
+
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/victoriocaccioppoli/)
+- [Email](mailto:victoriocaccioppoli@gmail.com)
+
 ![coding](https://media.giphy.com/media/ly8G39g1ujpNm/giphy.gif)
