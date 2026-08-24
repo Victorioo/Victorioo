@@ -1,10 +1,9 @@
 # Hi there 🫶❤️
 
-## 🖥️👽 About me
+##  About me
 - 🌍   Currently on Argentina
 - 👨🏻‍💻   I love technology
-- 🚀   Frontend developer
-- 🎓   Currently Learning Full Stack on NUCBA.
+- 🚀   Frontend developer at Argus PPC
 
 ## 🌐🤝🏻 Social
 - Take a look to my [Portfolio](https://www.victoriodev.ar/) ✨
